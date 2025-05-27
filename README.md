@@ -1,2 +1,2 @@
 # Space_HTML
-Basic HTML program to insert space pic from google!!So easy that even you can do it!
+Simple HTML program to insert a space picture from Google! It's so easy that anyone can do it! Just make sure the path to the image on your computer is correct!
